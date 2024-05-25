@@ -1,0 +1,1243 @@
+2024-May-17 22:12:38:                                    _                 
+2024-May-17 22:12:38:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2024-May-17 22:12:38: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2024-May-17 22:12:38: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2024-May-17 22:12:38: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2024-May-17 22:12:38: 
+2024-May-17 22:12:38: Version 3.9.1-linux
+2024-May-17 22:12:38: Started EthMan server on port 3333 without a password (read-only mode).
+2024-May-17 22:12:38: Started web interface on port 9090 without a password.
+2024-May-17 22:12:38: ------------------RandomX:------------------
+2024-May-17 22:12:38: Currency: Monero
+2024-May-17 22:12:38: Wallet: 43x48W5qi7YZXT9XWtB6gLK829pFtJ7BE4QKQXTVJKxkfpBVenJZYT9TBp5y5vHqHy7iziad6HoGFHCSSuFMnv5BPqbfwkZ
+2024-May-17 22:12:38: Rig name: Grumpy_9228d843
+2024-May-17 22:12:38: Email was not set.
+2024-May-17 22:12:38: Hashrate threshold to restart miner is not set
+2024-May-17 22:12:38: Number of rejected shares per hour to restart miner is not set
+2024-May-17 22:12:38: Using CPU threads: 2
+2024-May-17 22:12:38: Added pool: xmr-jp1.nanopool.org:10343
+2024-May-17 22:12:38: Added pool: xmr-asia1.nanopool.org:10343
+2024-May-17 22:12:38: Added pool: xmr-us-west1.nanopool.org:10343
+2024-May-17 22:12:38: Added pool: xmr-au1.nanopool.org:10343
+2024-May-17 22:12:38: Added pool: xmr-us-east1.nanopool.org:10343
+2024-May-17 22:12:38: Added pool: xmr-eu1.nanopool.org:10343
+2024-May-17 22:12:38: Added pool: xmr-eu2.nanopool.org:10343
+2024-May-17 22:12:38: Auto pool sorting is enabled
+2024-May-17 22:12:38: -------------Common parameters:-------------
+2024-May-17 22:12:38: Log path: ./logs/
+2024-May-17 22:12:38: Log is written to file
+2024-May-17 22:12:38: GPU watchdog is enabled
+2024-May-17 22:12:38: Never calling reboot.sh (always restarting the miner in case of errors). 
+2024-May-17 22:12:38: Setting up algorithm: RandomX
+2024-May-17 22:12:38: Connecting to pools...
+2024-May-17 22:12:38: Connected to pool: xmr-jp1.nanopool.org:10343 | IP: 172.105.211.250 | ping: 83 ms.
+2024-May-17 22:12:39: CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz | AVX2: yes | SSSE3: yes | AES: yes
+2024-May-17 22:12:39: New job from xmr-jp1.nanopool.org:10343 | share difficulty = 480 kH
+2024-May-17 22:12:39: Updating dataset...
+2024-May-17 22:12:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:12:52: Updating dataset finished.
+2024-May-17 22:13:08: Monero - Total speed: 600.929 H/s, Total shares: 0 Rejected: 0, Time: 00:30
+2024-May-17 22:13:08: Monero: CPU: 600.929 H/s
+2024-May-17 22:13:08: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:13:18: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:13:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:13:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:13:38: Monero - Total speed: 593.088 H/s, Total shares: 0 Rejected: 0, Time: 01:00
+2024-May-17 22:13:38: Monero: CPU: 593.088 H/s
+2024-May-17 22:13:38: Monero last 10 min - Total: 597.008 H/s.
+2024-May-17 22:14:08: Monero - Total speed: 575.980 H/s, Total shares: 0 Rejected: 0, Time: 01:30
+2024-May-17 22:14:08: Monero: CPU: 575.980 H/s
+2024-May-17 22:14:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:14:38: Monero - Total speed: 595.740 H/s, Total shares: 0 Rejected: 0, Time: 02:00
+2024-May-17 22:14:38: Monero: CPU: 595.740 H/s
+2024-May-17 22:14:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:14:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:15:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:15:08: Monero - Total speed: 549.178 H/s, Total shares: 0 Rejected: 0, Time: 02:30
+2024-May-17 22:15:08: Monero: CPU: 549.178 H/s
+2024-May-17 22:15:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:15:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:15:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:15:38: Monero - Total speed: 571.213 H/s, Total shares: 0 Rejected: 0, Time: 03:00
+2024-May-17 22:15:38: Monero: CPU: 571.213 H/s
+2024-May-17 22:15:38: Monero last 10 min - Total: 580.011 H/s.
+2024-May-17 22:15:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:15:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:16:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:16:08: Monero - Total speed: 592.872 H/s, Total shares: 0 Rejected: 0, Time: 03:30
+2024-May-17 22:16:08: Monero: CPU: 592.872 H/s
+2024-May-17 22:16:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:16:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:16:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:16:38: Monero - Total speed: 555.597 H/s, Total shares: 0 Rejected: 0, Time: 04:00
+2024-May-17 22:16:38: Monero: CPU: 555.597 H/s
+2024-May-17 22:16:48: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:16:58: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:17:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:17:08: Monero - Total speed: 596.997 H/s, Total shares: 0 Rejected: 0, Time: 04:30
+2024-May-17 22:17:08: Monero: CPU: 596.997 H/s
+2024-May-17 22:17:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:17:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:17:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:17:38: Monero - Total speed: 494.185 H/s, Total shares: 0 Rejected: 0, Time: 05:00
+2024-May-17 22:17:38: Monero: CPU: 494.185 H/s
+2024-May-17 22:17:38: Monero last 10 min - Total: 575.358 H/s.
+2024-May-17 22:17:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:17:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:18:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:18:08: Monero - Total speed: 510.775 H/s, Total shares: 0 Rejected: 0, Time: 05:30
+2024-May-17 22:18:08: Monero: CPU: 510.775 H/s
+2024-May-17 22:18:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:18:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:18:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:18:38: Monero - Total speed: 485.266 H/s, Total shares: 0 Rejected: 0, Time: 06:00
+2024-May-17 22:18:38: Monero: CPU: 485.266 H/s
+2024-May-17 22:18:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:18:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:08: Monero - Total speed: 418.232 H/s, Total shares: 0 Rejected: 0, Time: 06:30
+2024-May-17 22:19:08: Monero: CPU: 418.232 H/s
+2024-May-17 22:19:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:18: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:38: Monero - Total speed: 585.840 H/s, Total shares: 0 Rejected: 0, Time: 07:00
+2024-May-17 22:19:38: Monero: CPU: 585.840 H/s
+2024-May-17 22:19:38: Monero last 10 min - Total: 548.653 H/s.
+2024-May-17 22:19:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:19:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:20:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:20:08: Monero - Total speed: 522.220 H/s, Total shares: 0 Rejected: 0, Time: 07:30
+2024-May-17 22:20:08: Monero: CPU: 522.220 H/s
+2024-May-17 22:20:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:20:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:20:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:20:39: Monero - Total speed: 509.138 H/s, Total shares: 0 Rejected: 0, Time: 08:00
+2024-May-17 22:20:39: Monero: CPU: 509.138 H/s
+2024-May-17 22:20:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:20:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:21:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:21:09: Monero - Total speed: 583.060 H/s, Total shares: 0 Rejected: 0, Time: 08:30
+2024-May-17 22:21:09: Monero: CPU: 583.060 H/s
+2024-May-17 22:21:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:21:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:21:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:21:39: Monero - Total speed: 583.382 H/s, Total shares: 0 Rejected: 0, Time: 09:00
+2024-May-17 22:21:39: Monero: CPU: 583.382 H/s
+2024-May-17 22:21:39: Monero last 10 min - Total: 548.912 H/s.
+2024-May-17 22:21:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:21:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:22:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:22:09: Monero - Total speed: 526.825 H/s, Total shares: 0 Rejected: 0, Time: 09:30
+2024-May-17 22:22:09: Monero: CPU: 526.825 H/s
+2024-May-17 22:22:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:22:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:22:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:22:39: Monero - Total speed: 438.148 H/s, Total shares: 0 Rejected: 0, Time: 10:00
+2024-May-17 22:22:39: Monero: CPU: 438.148 H/s
+2024-May-17 22:22:45: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:22:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:23:05: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:23:09: Monero - Total speed: 598.071 H/s, Total shares: 0 Rejected: 0, Time: 10:30
+2024-May-17 22:23:09: Monero: CPU: 598.071 H/s
+2024-May-17 22:23:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:23:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:23:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:23:39: Monero - Total speed: 577.405 H/s, Total shares: 0 Rejected: 0, Time: 11:00
+2024-May-17 22:23:39: Monero: CPU: 577.405 H/s
+2024-May-17 22:23:39: Monero last 10 min - Total: 541.758 H/s.
+2024-May-17 22:23:45: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:23:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:24:05: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:24:09: Monero - Total speed: 578.405 H/s, Total shares: 0 Rejected: 0, Time: 11:30
+2024-May-17 22:24:09: Monero: CPU: 578.405 H/s
+2024-May-17 22:24:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:24:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:24:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:24:39: Monero - Total speed: 585.655 H/s, Total shares: 0 Rejected: 0, Time: 12:00
+2024-May-17 22:24:39: Monero: CPU: 585.655 H/s
+2024-May-17 22:24:45: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:24:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:25:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:25:09: Monero - Total speed: 512.853 H/s, Total shares: 0 Rejected: 0, Time: 12:30
+2024-May-17 22:25:09: Monero: CPU: 512.853 H/s
+2024-May-17 22:25:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:25:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:25:39: Monero - Total speed: 573.423 H/s, Total shares: 0 Rejected: 0, Time: 13:00
+2024-May-17 22:25:39: Monero: CPU: 573.423 H/s
+2024-May-17 22:25:39: Monero last 10 min - Total: 539.220 H/s.
+2024-May-17 22:25:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:25:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:26:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:26:09: Monero - Total speed: 596.707 H/s, Total shares: 0 Rejected: 0, Time: 13:30
+2024-May-17 22:26:09: Monero: CPU: 596.707 H/s
+2024-May-17 22:26:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:26:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:26:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:26:39: Monero - Total speed: 524.008 H/s, Total shares: 0 Rejected: 0, Time: 14:00
+2024-May-17 22:26:39: Monero: CPU: 524.008 H/s
+2024-May-17 22:26:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:26:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:27:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:27:09: Monero - Total speed: 421.971 H/s, Total shares: 0 Rejected: 0, Time: 14:30
+2024-May-17 22:27:09: Monero: CPU: 421.971 H/s
+2024-May-17 22:27:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:27:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:27:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:27:39: Monero - Total speed: 425.641 H/s, Total shares: 0 Rejected: 0, Time: 15:00
+2024-May-17 22:27:39: Monero: CPU: 425.641 H/s
+2024-May-17 22:27:39: Monero last 10 min - Total: 530.990 H/s.
+2024-May-17 22:27:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:27:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:28:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:28:09: Monero - Total speed: 506.546 H/s, Total shares: 0 Rejected: 0, Time: 15:30
+2024-May-17 22:28:09: Monero: CPU: 506.546 H/s
+2024-May-17 22:28:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:28:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:28:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:28:39: Monero - Total speed: 509.657 H/s, Total shares: 0 Rejected: 0, Time: 16:00
+2024-May-17 22:28:39: Monero: CPU: 509.657 H/s
+2024-May-17 22:28:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:28:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:09: Monero - Total speed: 528.738 H/s, Total shares: 0 Rejected: 0, Time: 16:30
+2024-May-17 22:29:09: Monero: CPU: 528.738 H/s
+2024-May-17 22:29:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:39: Monero - Total speed: 539.687 H/s, Total shares: 0 Rejected: 0, Time: 17:00
+2024-May-17 22:29:39: Monero: CPU: 539.687 H/s
+2024-May-17 22:29:39: Monero last 10 min - Total: 532.134 H/s.
+2024-May-17 22:29:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:29:58: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:30:08: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:30:09: Monero - Total speed: 559.826 H/s, Total shares: 0 Rejected: 0, Time: 17:31
+2024-May-17 22:30:09: Monero: CPU: 559.826 H/s
+2024-May-17 22:30:18: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:30:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:30:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:30:39: Monero - Total speed: 504.272 H/s, Total shares: 0 Rejected: 0, Time: 18:01
+2024-May-17 22:30:39: Monero: CPU: 504.272 H/s
+2024-May-17 22:30:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:30:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:31:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:31:09: Monero - Total speed: 415.370 H/s, Total shares: 0 Rejected: 0, Time: 18:31
+2024-May-17 22:31:09: Monero: CPU: 415.370 H/s
+2024-May-17 22:31:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:31:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:31:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:31:39: Monero - Total speed: 473.125 H/s, Total shares: 0 Rejected: 0, Time: 19:01
+2024-May-17 22:31:39: Monero: CPU: 473.125 H/s
+2024-May-17 22:31:39: Monero last 10 min - Total: 520.854 H/s.
+2024-May-17 22:31:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:31:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:32:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:32:09: Monero - Total speed: 541.176 H/s, Total shares: 0 Rejected: 0, Time: 19:31
+2024-May-17 22:32:09: Monero: CPU: 541.176 H/s
+2024-May-17 22:32:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:32:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:32:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:32:39: Monero - Total speed: 557.186 H/s, Total shares: 0 Rejected: 0, Time: 20:01
+2024-May-17 22:32:39: Monero: CPU: 557.186 H/s
+2024-May-17 22:32:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:32:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:09: Monero - Total speed: 562.433 H/s, Total shares: 0 Rejected: 0, Time: 20:31
+2024-May-17 22:33:09: Monero: CPU: 562.433 H/s
+2024-May-17 22:33:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:39: Monero - Total speed: 560.508 H/s, Total shares: 0 Rejected: 0, Time: 21:01
+2024-May-17 22:33:39: Monero: CPU: 560.508 H/s
+2024-May-17 22:33:39: Monero last 10 min - Total: 521.451 H/s.
+2024-May-17 22:33:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:33:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:34:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:34:09: Monero - Total speed: 520.999 H/s, Total shares: 0 Rejected: 0, Time: 21:31
+2024-May-17 22:34:09: Monero: CPU: 520.999 H/s
+2024-May-17 22:34:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:34:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:34:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:34:39: Monero - Total speed: 558.485 H/s, Total shares: 0 Rejected: 0, Time: 22:01
+2024-May-17 22:34:39: Monero: CPU: 558.485 H/s
+2024-May-17 22:34:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:34:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:35:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:35:09: Monero - Total speed: 598.118 H/s, Total shares: 0 Rejected: 0, Time: 22:31
+2024-May-17 22:35:09: Monero: CPU: 598.118 H/s
+2024-May-17 22:35:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:35:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:35:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:35:40: Monero - Total speed: 541.427 H/s, Total shares: 0 Rejected: 0, Time: 23:01
+2024-May-17 22:35:40: Monero: CPU: 541.427 H/s
+2024-May-17 22:35:40: Monero last 10 min - Total: 519.825 H/s.
+2024-May-17 22:35:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:35:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:36:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:36:10: Monero - Total speed: 465.915 H/s, Total shares: 0 Rejected: 0, Time: 23:31
+2024-May-17 22:36:10: Monero: CPU: 465.915 H/s
+2024-May-17 22:36:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:36:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:36:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:36:40: Monero - Total speed: 423.293 H/s, Total shares: 0 Rejected: 0, Time: 24:01
+2024-May-17 22:36:40: Monero: CPU: 423.293 H/s
+2024-May-17 22:36:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:36:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:37:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:37:10: Monero - Total speed: 557.046 H/s, Total shares: 0 Rejected: 0, Time: 24:31
+2024-May-17 22:37:10: Monero: CPU: 557.046 H/s
+2024-May-17 22:37:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:37:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:37:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:37:40: Monero - Total speed: 531.751 H/s, Total shares: 0 Rejected: 0, Time: 25:01
+2024-May-17 22:37:40: Monero: CPU: 531.751 H/s
+2024-May-17 22:37:40: Monero last 10 min - Total: 522.958 H/s.
+2024-May-17 22:37:45: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:37:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:38:05: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:38:10: Monero - Total speed: 518.579 H/s, Total shares: 0 Rejected: 0, Time: 25:31
+2024-May-17 22:38:10: Monero: CPU: 518.579 H/s
+2024-May-17 22:38:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:38:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:38:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:38:40: Monero - Total speed: 531.778 H/s, Total shares: 0 Rejected: 0, Time: 26:01
+2024-May-17 22:38:40: Monero: CPU: 531.778 H/s
+2024-May-17 22:38:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:38:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:39:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:39:10: Monero - Total speed: 531.237 H/s, Total shares: 0 Rejected: 0, Time: 26:31
+2024-May-17 22:39:10: Monero: CPU: 531.237 H/s
+2024-May-17 22:39:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:39:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:39:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:39:40: Monero - Total speed: 584.304 H/s, Total shares: 0 Rejected: 0, Time: 27:01
+2024-May-17 22:39:40: Monero: CPU: 584.304 H/s
+2024-May-17 22:39:40: Monero last 10 min - Total: 524.450 H/s.
+2024-May-17 22:39:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:39:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:10: Monero - Total speed: 419.155 H/s, Total shares: 0 Rejected: 0, Time: 27:31
+2024-May-17 22:40:10: Monero: CPU: 419.155 H/s
+2024-May-17 22:40:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:40: Monero - Total speed: 434.204 H/s, Total shares: 0 Rejected: 0, Time: 28:01
+2024-May-17 22:40:40: Monero: CPU: 434.204 H/s
+2024-May-17 22:40:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:40:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:41:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:41:10: Monero - Total speed: 422.094 H/s, Total shares: 0 Rejected: 0, Time: 28:31
+2024-May-17 22:41:10: Monero: CPU: 422.094 H/s
+2024-May-17 22:41:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:41:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:41:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:41:40: Monero - Total speed: 404.408 H/s, Total shares: 0 Rejected: 0, Time: 29:01
+2024-May-17 22:41:40: Monero: CPU: 404.408 H/s
+2024-May-17 22:41:40: Monero last 10 min - Total: 515.327 H/s.
+2024-May-17 22:41:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:41:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:10: Monero - Total speed: 428.894 H/s, Total shares: 0 Rejected: 0, Time: 29:31
+2024-May-17 22:42:10: Monero: CPU: 428.894 H/s
+2024-May-17 22:42:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:40: Monero - Total speed: 416.354 H/s, Total shares: 0 Rejected: 0, Time: 30:01
+2024-May-17 22:42:40: Monero: CPU: 416.354 H/s
+2024-May-17 22:42:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:42:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:43:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:43:10: Monero - Total speed: 430.685 H/s, Total shares: 0 Rejected: 0, Time: 30:31
+2024-May-17 22:43:10: Monero: CPU: 430.685 H/s
+2024-May-17 22:43:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:43:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:43:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:43:40: Monero - Total speed: 341.336 H/s, Total shares: 0 Rejected: 0, Time: 31:01
+2024-May-17 22:43:40: Monero: CPU: 341.336 H/s
+2024-May-17 22:43:40: Monero last 10 min - Total: 485.724 H/s.
+2024-May-17 22:43:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:43:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:44:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:44:10: Monero - Total speed: 328.641 H/s, Total shares: 0 Rejected: 0, Time: 31:31
+2024-May-17 22:44:10: Monero: CPU: 328.641 H/s
+2024-May-17 22:44:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:44:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:44:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:44:40: Monero - Total speed: 328.749 H/s, Total shares: 0 Rejected: 0, Time: 32:02
+2024-May-17 22:44:40: Monero: CPU: 328.749 H/s
+2024-May-17 22:44:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:44:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:45:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:45:10: Monero - Total speed: 317.523 H/s, Total shares: 0 Rejected: 0, Time: 32:32
+2024-May-17 22:45:10: Monero: CPU: 317.523 H/s
+2024-May-17 22:45:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:45:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:45:40: Monero - Total speed: 347.083 H/s, Total shares: 0 Rejected: 0, Time: 33:02
+2024-May-17 22:45:40: Monero: CPU: 347.083 H/s
+2024-May-17 22:45:40: Monero last 10 min - Total: 439.795 H/s.
+2024-May-17 22:45:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:45:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:46:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:46:10: Monero - Total speed: 353.329 H/s, Total shares: 0 Rejected: 0, Time: 33:32
+2024-May-17 22:46:10: Monero: CPU: 353.329 H/s
+2024-May-17 22:46:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:46:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:46:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:46:40: Monero - Total speed: 340.188 H/s, Total shares: 0 Rejected: 0, Time: 34:02
+2024-May-17 22:46:40: Monero: CPU: 340.188 H/s
+2024-May-17 22:46:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:47:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:47:10: Monero - Total speed: 432.407 H/s, Total shares: 0 Rejected: 0, Time: 34:32
+2024-May-17 22:47:10: Monero: CPU: 432.407 H/s
+2024-May-17 22:47:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:47:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:47:40: Monero - Total speed: 469.406 H/s, Total shares: 0 Rejected: 0, Time: 35:02
+2024-May-17 22:47:40: Monero: CPU: 469.406 H/s
+2024-May-17 22:47:40: Monero last 10 min - Total: 415.058 H/s.
+2024-May-17 22:47:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:48:10: Monero - Total speed: 486.475 H/s, Total shares: 0 Rejected: 0, Time: 35:32
+2024-May-17 22:48:10: Monero: CPU: 486.475 H/s
+2024-May-17 22:48:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:48:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:48:40: Monero - Total speed: 553.123 H/s, Total shares: 0 Rejected: 0, Time: 36:02
+2024-May-17 22:48:40: Monero: CPU: 553.123 H/s
+2024-May-17 22:48:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:02: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:10: Monero - Total speed: 364.126 H/s, Total shares: 0 Rejected: 0, Time: 36:32
+2024-May-17 22:49:10: Monero: CPU: 364.126 H/s
+2024-May-17 22:49:12: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:32: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:40: Monero - Total speed: 394.845 H/s, Total shares: 0 Rejected: 0, Time: 37:02
+2024-May-17 22:49:40: Monero: CPU: 394.845 H/s
+2024-May-17 22:49:40: Monero last 10 min - Total: 400.303 H/s.
+2024-May-17 22:49:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:49:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:50:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:50:11: Monero - Total speed: 437.603 H/s, Total shares: 0 Rejected: 0, Time: 37:32
+2024-May-17 22:50:11: Monero: CPU: 437.603 H/s
+2024-May-17 22:50:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:50:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:50:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:50:41: Monero - Total speed: 447.817 H/s, Total shares: 0 Rejected: 0, Time: 38:02
+2024-May-17 22:50:41: Monero: CPU: 447.817 H/s
+2024-May-17 22:50:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:50:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:51:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:51:11: Monero - Total speed: 454.494 H/s, Total shares: 0 Rejected: 0, Time: 38:32
+2024-May-17 22:51:11: Monero: CPU: 454.494 H/s
+2024-May-17 22:51:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:51:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:51:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:51:41: Monero - Total speed: 431.559 H/s, Total shares: 0 Rejected: 0, Time: 39:02
+2024-May-17 22:51:41: Monero: CPU: 431.559 H/s
+2024-May-17 22:51:41: Monero last 10 min - Total: 403.903 H/s.
+2024-May-17 22:51:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:51:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:52:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:52:11: Monero - Total speed: 452.430 H/s, Total shares: 0 Rejected: 0, Time: 39:32
+2024-May-17 22:52:11: Monero: CPU: 452.430 H/s
+2024-May-17 22:52:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:52:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:52:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:52:41: Monero - Total speed: 411.100 H/s, Total shares: 0 Rejected: 0, Time: 40:02
+2024-May-17 22:52:41: Monero: CPU: 411.100 H/s
+2024-May-17 22:52:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:52:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:53:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:53:11: Monero - Total speed: 452.924 H/s, Total shares: 0 Rejected: 0, Time: 40:32
+2024-May-17 22:53:11: Monero: CPU: 452.924 H/s
+2024-May-17 22:53:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:53:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:53:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:53:41: Monero - Total speed: 459.117 H/s, Total shares: 0 Rejected: 0, Time: 41:02
+2024-May-17 22:53:41: Monero: CPU: 459.117 H/s
+2024-May-17 22:53:41: Monero last 10 min - Total: 414.157 H/s.
+2024-May-17 22:53:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:53:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:54:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:54:11: Monero - Total speed: 429.129 H/s, Total shares: 0 Rejected: 0, Time: 41:32
+2024-May-17 22:54:11: Monero: CPU: 429.129 H/s
+2024-May-17 22:54:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:54:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:54:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:54:41: Monero - Total speed: 428.179 H/s, Total shares: 0 Rejected: 0, Time: 42:02
+2024-May-17 22:54:41: Monero: CPU: 428.179 H/s
+2024-May-17 22:54:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:54:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:55:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:55:11: Monero - Total speed: 346.106 H/s, Total shares: 0 Rejected: 0, Time: 42:32
+2024-May-17 22:55:11: Monero: CPU: 346.106 H/s
+2024-May-17 22:55:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:55:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:55:38: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:55:39: [RandomX] ~~~~~~ DevFee begin ~~~~~~
+2024-May-17 22:55:43: Monero - Total speed: 382.210 H/s, Total shares: 0 Rejected: 0, Time: 43:04
+2024-May-17 22:55:43: Monero: CPU: 382.210 H/s
+2024-May-17 22:55:43: Monero last 10 min - Total: 429.227 H/s.
+2024-May-17 22:55:44: New job from commission host
+2024-May-17 22:55:48: New job from commission host
+2024-May-17 22:55:58: New job from commission host
+2024-May-17 22:56:08: New job from commission host
+2024-May-17 22:56:13: Monero - Total speed: 388.563 H/s, Total shares: 0 Rejected: 0, Time: 43:34
+2024-May-17 22:56:13: Monero: CPU: 388.563 H/s
+2024-May-17 22:56:18: New job from commission host
+2024-May-17 22:56:31: New job from commission host
+2024-May-17 22:56:41: New job from commission host
+2024-May-17 22:56:43: Monero - Total speed: 436.086 H/s, Total shares: 0 Rejected: 0, Time: 44:04
+2024-May-17 22:56:43: Monero: CPU: 436.086 H/s
+2024-May-17 22:56:51: New job from commission host
+2024-May-17 22:57:06: New job from commission host
+2024-May-17 22:57:13: Monero - Total speed: 415.347 H/s, Total shares: 0 Rejected: 0, Time: 44:34
+2024-May-17 22:57:13: Monero: CPU: 415.347 H/s
+2024-May-17 22:57:16: New job from commission host
+2024-May-17 22:57:21: New job from commission host
+2024-May-17 22:57:38: New job from commission host
+2024-May-17 22:57:43: Monero - Total speed: 398.039 H/s, Total shares: 0 Rejected: 0, Time: 45:04
+2024-May-17 22:57:43: Monero: CPU: 398.039 H/s
+2024-May-17 22:57:43: Monero last 10 min - Total: 427.558 H/s.
+2024-May-17 22:57:48: New job from commission host
+2024-May-17 22:58:02: New job from commission host
+2024-May-17 22:58:04: [RandomX] ~~~~~~ DevFee end ~~~~~~
+2024-May-17 22:58:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:58:13: Monero - Total speed: 386.469 H/s, Total shares: 0 Rejected: 0, Time: 45:34
+2024-May-17 22:58:13: Monero: CPU: 386.469 H/s
+2024-May-17 22:58:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:58:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:58:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:58:43: Monero - Total speed: 432.044 H/s, Total shares: 0 Rejected: 0, Time: 46:04
+2024-May-17 22:58:43: Monero: CPU: 432.044 H/s
+2024-May-17 22:59:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:59:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:59:13: Monero - Total speed: 433.276 H/s, Total shares: 0 Rejected: 0, Time: 46:34
+2024-May-17 22:59:13: Monero: CPU: 433.276 H/s
+2024-May-17 22:59:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:59:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 22:59:43: Monero - Total speed: 398.584 H/s, Total shares: 0 Rejected: 0, Time: 47:04
+2024-May-17 22:59:43: Monero: CPU: 398.584 H/s
+2024-May-17 22:59:43: Monero last 10 min - Total: 421.051 H/s.
+2024-May-17 22:59:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:00:02: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:00:12: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:00:13: Monero - Total speed: 457.669 H/s, Total shares: 0 Rejected: 0, Time: 47:34
+2024-May-17 23:00:13: Monero: CPU: 457.669 H/s
+2024-May-17 23:00:43: Monero - Total speed: 458.078 H/s, Total shares: 0 Rejected: 0, Time: 48:04
+2024-May-17 23:00:43: Monero: CPU: 458.078 H/s
+2024-May-17 23:00:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:01:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:01:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:01:13: Monero - Total speed: 414.345 H/s, Total shares: 0 Rejected: 0, Time: 48:34
+2024-May-17 23:01:13: Monero: CPU: 414.345 H/s
+2024-May-17 23:01:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:01:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:01:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:01:43: Monero - Total speed: 429.357 H/s, Total shares: 0 Rejected: 0, Time: 49:04
+2024-May-17 23:01:43: Monero: CPU: 429.357 H/s
+2024-May-17 23:01:43: Monero last 10 min - Total: 419.223 H/s.
+2024-May-17 23:01:52: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:02: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:12: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:13: Monero - Total speed: 430.043 H/s, Total shares: 0 Rejected: 0, Time: 49:34
+2024-May-17 23:02:13: Monero: CPU: 430.043 H/s
+2024-May-17 23:02:22: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:43: Monero - Total speed: 450.068 H/s, Total shares: 0 Rejected: 0, Time: 50:04
+2024-May-17 23:02:43: Monero: CPU: 450.068 H/s
+2024-May-17 23:02:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:02:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:13: Monero - Total speed: 414.971 H/s, Total shares: 0 Rejected: 0, Time: 50:34
+2024-May-17 23:03:13: Monero: CPU: 414.971 H/s
+2024-May-17 23:03:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:38: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:43: Monero - Total speed: 503.382 H/s, Total shares: 0 Rejected: 0, Time: 51:05
+2024-May-17 23:03:43: Monero: CPU: 503.382 H/s
+2024-May-17 23:03:43: Monero last 10 min - Total: 419.091 H/s.
+2024-May-17 23:03:48: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:03:58: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:04:08: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:04:13: Monero - Total speed: 535.541 H/s, Total shares: 0 Rejected: 0, Time: 51:35
+2024-May-17 23:04:13: Monero: CPU: 535.541 H/s
+2024-May-17 23:04:18: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:04:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:04:38: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:04:43: Monero - Total speed: 488.228 H/s, Total shares: 0 Rejected: 0, Time: 52:05
+2024-May-17 23:04:43: Monero: CPU: 488.228 H/s
+2024-May-17 23:04:48: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:04:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:05:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:05:13: Monero - Total speed: 528.567 H/s, Total shares: 0 Rejected: 0, Time: 52:35
+2024-May-17 23:05:13: Monero: CPU: 528.567 H/s
+2024-May-17 23:05:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:05:27: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:05:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:05:43: Monero - Total speed: 498.005 H/s, Total shares: 0 Rejected: 0, Time: 53:05
+2024-May-17 23:05:43: Monero: CPU: 498.005 H/s
+2024-May-17 23:05:43: Monero last 10 min - Total: 444.912 H/s.
+2024-May-17 23:05:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:05:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:13: Monero - Total speed: 516.757 H/s, Total shares: 0 Rejected: 0, Time: 53:35
+2024-May-17 23:06:13: Monero: CPU: 516.757 H/s
+2024-May-17 23:06:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:27: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:38: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:43: Monero - Total speed: 486.758 H/s, Total shares: 0 Rejected: 0, Time: 54:05
+2024-May-17 23:06:43: Monero: CPU: 486.758 H/s
+2024-May-17 23:06:48: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:06:58: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:07:08: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:07:13: Monero - Total speed: 595.549 H/s, Total shares: 0 Rejected: 0, Time: 54:35
+2024-May-17 23:07:13: Monero: CPU: 595.549 H/s
+2024-May-17 23:07:18: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:07:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:07:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:07:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:07:43: Monero - Total speed: 554.347 H/s, Total shares: 0 Rejected: 0, Time: 55:05
+2024-May-17 23:07:43: Monero: CPU: 554.347 H/s
+2024-May-17 23:07:43: Monero last 10 min - Total: 470.607 H/s.
+2024-May-17 23:07:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:08:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:08:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:08:13: Monero - Total speed: 541.688 H/s, Total shares: 0 Rejected: 0, Time: 55:35
+2024-May-17 23:08:13: Monero: CPU: 541.688 H/s
+2024-May-17 23:08:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:08:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:08:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:08:43: Monero - Total speed: 591.162 H/s, Total shares: 0 Rejected: 0, Time: 56:05
+2024-May-17 23:08:43: Monero: CPU: 591.162 H/s
+2024-May-17 23:08:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:13: Monero - Total speed: 608.966 H/s, Total shares: 0 Rejected: 0, Time: 56:35
+2024-May-17 23:09:13: Monero: CPU: 608.966 H/s
+2024-May-17 23:09:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:43: Monero - Total speed: 611.053 H/s, Total shares: 0 Rejected: 0, Time: 57:05
+2024-May-17 23:09:43: Monero: CPU: 611.053 H/s
+2024-May-17 23:09:43: Monero last 10 min - Total: 504.209 H/s.
+2024-May-17 23:09:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:09:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:13: Monero - Total speed: 605.051 H/s, Total shares: 0 Rejected: 0, Time: 57:35
+2024-May-17 23:10:13: Monero: CPU: 605.051 H/s
+2024-May-17 23:10:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:43: Monero - Total speed: 603.148 H/s, Total shares: 0 Rejected: 0, Time: 58:05
+2024-May-17 23:10:43: Monero: CPU: 603.148 H/s
+2024-May-17 23:10:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:10:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:11:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:11:14: Monero - Total speed: 603.885 H/s, Total shares: 0 Rejected: 0, Time: 58:35
+2024-May-17 23:11:14: Monero: CPU: 603.885 H/s
+2024-May-17 23:11:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:11:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:11:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:11:44: Monero - Total speed: 609.019 H/s, Total shares: 0 Rejected: 0, Time: 59:05
+2024-May-17 23:11:44: Monero: CPU: 609.019 H/s
+2024-May-17 23:11:44: Monero last 10 min - Total: 539.807 H/s.
+2024-May-17 23:11:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:11:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:12:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:12:14: Monero - Total speed: 590.886 H/s, Total shares: 0 Rejected: 0, Time: 59:35
+2024-May-17 23:12:14: Monero: CPU: 590.886 H/s
+2024-May-17 23:12:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:12:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:12:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:12:44: Monero - Total speed: 611.543 H/s, Total shares: 0 Rejected: 0, Time: 01:00:05
+2024-May-17 23:12:44: Monero: CPU: 611.543 H/s
+2024-May-17 23:12:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:12:56: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:14: Monero - Total speed: 603.957 H/s, Total shares: 0 Rejected: 0, Time: 01:00:35
+2024-May-17 23:13:14: Monero: CPU: 603.957 H/s
+2024-May-17 23:13:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:44: Monero - Total speed: 608.410 H/s, Total shares: 0 Rejected: 0, Time: 01:01:05
+2024-May-17 23:13:44: Monero: CPU: 608.410 H/s
+2024-May-17 23:13:44: Monero last 10 min - Total: 569.500 H/s.
+2024-May-17 23:13:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:13:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:14:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:14:14: Monero - Total speed: 609.254 H/s, Total shares: 0 Rejected: 0, Time: 01:01:35
+2024-May-17 23:14:14: Monero: CPU: 609.254 H/s
+2024-May-17 23:14:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:14:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:14:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:14:44: Monero - Total speed: 613.466 H/s, Total shares: 0 Rejected: 0, Time: 01:02:05
+2024-May-17 23:14:44: Monero: CPU: 613.466 H/s
+2024-May-17 23:14:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:14:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:15:03: Monero - SHARE FOUND (CPU, nonce: d566c9f8).
+2024-May-17 23:15:04: Monero: share accepted (321 ms)!
+2024-May-17 23:15:05: Monero - SHARE FOUND (CPU, nonce: 9f68c9f8).
+2024-May-17 23:15:05: Monero: share accepted (332 ms)!
+2024-May-17 23:15:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:15:14: Monero - Total speed: 612.197 H/s, Total shares: 2 Rejected: 0, Time: 01:02:35
+2024-May-17 23:15:14: Monero: CPU: 612.197 H/s
+2024-May-17 23:15:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:15:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:15:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:15:44: Monero - Total speed: 618.051 H/s, Total shares: 2 Rejected: 0, Time: 01:03:05
+2024-May-17 23:15:44: Monero: CPU: 618.051 H/s
+2024-May-17 23:15:44: Monero last 10 min - Total: 590.936 H/s.
+2024-May-17 23:15:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:15:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:16:12: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:16:14: Monero - Total speed: 600.130 H/s, Total shares: 2 Rejected: 0, Time: 01:03:35
+2024-May-17 23:16:14: Monero: CPU: 600.130 H/s
+2024-May-17 23:16:22: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:16:32: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:16:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:16:44: Monero - Total speed: 600.039 H/s, Total shares: 2 Rejected: 0, Time: 01:04:05
+2024-May-17 23:16:44: Monero: CPU: 600.039 H/s
+2024-May-17 23:16:52: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:17:02: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:17:12: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:17:14: Monero - Total speed: 611.431 H/s, Total shares: 2 Rejected: 0, Time: 01:04:35
+2024-May-17 23:17:14: Monero: CPU: 611.431 H/s
+2024-May-17 23:17:22: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:17:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:17:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:17:44: Monero - Total speed: 614.445 H/s, Total shares: 2 Rejected: 0, Time: 01:05:05
+2024-May-17 23:17:44: Monero: CPU: 614.445 H/s
+2024-May-17 23:17:44: Monero last 10 min - Total: 604.722 H/s.
+2024-May-17 23:17:52: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:18:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:18:14: Monero - Total speed: 603.681 H/s, Total shares: 2 Rejected: 0, Time: 01:05:35
+2024-May-17 23:18:14: Monero: CPU: 603.681 H/s
+2024-May-17 23:18:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:18:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:18:44: Monero - Total speed: 608.320 H/s, Total shares: 2 Rejected: 0, Time: 01:06:05
+2024-May-17 23:18:44: Monero: CPU: 608.320 H/s
+2024-May-17 23:18:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:18:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:19:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:19:14: Monero - Total speed: 600.858 H/s, Total shares: 2 Rejected: 0, Time: 01:06:35
+2024-May-17 23:19:14: Monero: CPU: 600.858 H/s
+2024-May-17 23:19:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:19:27: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:19:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:19:44: Monero - Total speed: 612.151 H/s, Total shares: 2 Rejected: 0, Time: 01:07:05
+2024-May-17 23:19:44: Monero: CPU: 612.151 H/s
+2024-May-17 23:19:44: Monero last 10 min - Total: 606.912 H/s.
+2024-May-17 23:19:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:19:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:20:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:20:14: Monero - Total speed: 614.728 H/s, Total shares: 2 Rejected: 0, Time: 01:07:35
+2024-May-17 23:20:14: Monero: CPU: 614.728 H/s
+2024-May-17 23:20:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:20:27: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:20:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:20:44: Monero - Total speed: 616.405 H/s, Total shares: 2 Rejected: 0, Time: 01:08:05
+2024-May-17 23:20:44: Monero: CPU: 616.405 H/s
+2024-May-17 23:20:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:20:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:21:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:21:14: Monero - Total speed: 533.933 H/s, Total shares: 2 Rejected: 0, Time: 01:08:35
+2024-May-17 23:21:14: Monero: CPU: 533.933 H/s
+2024-May-17 23:21:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:21:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:21:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:21:44: Monero - Total speed: 505.314 H/s, Total shares: 2 Rejected: 0, Time: 01:09:05
+2024-May-17 23:21:44: Monero: CPU: 505.314 H/s
+2024-May-17 23:21:44: Monero last 10 min - Total: 602.164 H/s.
+2024-May-17 23:21:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:22:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:22:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:22:14: Monero - Total speed: 494.599 H/s, Total shares: 2 Rejected: 0, Time: 01:09:35
+2024-May-17 23:22:14: Monero: CPU: 494.599 H/s
+2024-May-17 23:22:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:22:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:22:44: Monero - Total speed: 502.864 H/s, Total shares: 2 Rejected: 0, Time: 01:10:06
+2024-May-17 23:22:44: Monero: CPU: 502.864 H/s
+2024-May-17 23:22:45: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:22:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:23:05: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:23:14: Monero - Total speed: 503.685 H/s, Total shares: 2 Rejected: 0, Time: 01:10:36
+2024-May-17 23:23:14: Monero: CPU: 503.685 H/s
+2024-May-17 23:23:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:23:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:23:35: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:23:44: Monero - Total speed: 485.169 H/s, Total shares: 2 Rejected: 0, Time: 01:11:06
+2024-May-17 23:23:44: Monero: CPU: 485.169 H/s
+2024-May-17 23:23:44: Monero last 10 min - Total: 579.656 H/s.
+2024-May-17 23:23:45: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:23:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:24:05: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:24:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:24:14: Monero - Total speed: 427.445 H/s, Total shares: 2 Rejected: 0, Time: 01:11:36
+2024-May-17 23:24:14: Monero: CPU: 427.445 H/s
+2024-May-17 23:24:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:24:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:24:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:24:44: Monero - Total speed: 384.190 H/s, Total shares: 2 Rejected: 0, Time: 01:12:06
+2024-May-17 23:24:44: Monero: CPU: 384.190 H/s
+2024-May-17 23:24:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:25:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:25:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:25:14: Monero - Total speed: 476.171 H/s, Total shares: 2 Rejected: 0, Time: 01:12:36
+2024-May-17 23:25:14: Monero: CPU: 476.171 H/s
+2024-May-17 23:25:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:25:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:25:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:25:44: Monero - Total speed: 454.322 H/s, Total shares: 2 Rejected: 0, Time: 01:13:06
+2024-May-17 23:25:44: Monero: CPU: 454.322 H/s
+2024-May-17 23:25:44: Monero last 10 min - Total: 543.293 H/s.
+2024-May-17 23:25:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:26:08: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:26:14: Monero - Total speed: 504.781 H/s, Total shares: 2 Rejected: 0, Time: 01:13:36
+2024-May-17 23:26:14: Monero: CPU: 504.781 H/s
+2024-May-17 23:26:18: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:26:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:26:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:26:44: Monero - Total speed: 558.465 H/s, Total shares: 2 Rejected: 0, Time: 01:14:06
+2024-May-17 23:26:44: Monero: CPU: 558.465 H/s
+2024-May-17 23:26:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:14: Monero - Total speed: 542.345 H/s, Total shares: 2 Rejected: 0, Time: 01:14:36
+2024-May-17 23:27:14: Monero: CPU: 542.345 H/s
+2024-May-17 23:27:22: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:27:44: Monero - Total speed: 446.970 H/s, Total shares: 2 Rejected: 0, Time: 01:15:06
+2024-May-17 23:27:44: Monero: CPU: 446.970 H/s
+2024-May-17 23:27:44: Monero last 10 min - Total: 523.737 H/s.
+2024-May-17 23:27:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:28:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:28:14: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:28:14: Monero - Total speed: 477.765 H/s, Total shares: 2 Rejected: 0, Time: 01:15:36
+2024-May-17 23:28:14: Monero: CPU: 477.765 H/s
+2024-May-17 23:28:24: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:28:34: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:28:44: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:28:44: Monero - Total speed: 394.090 H/s, Total shares: 2 Rejected: 0, Time: 01:16:06
+2024-May-17 23:28:44: Monero: CPU: 394.090 H/s
+2024-May-17 23:28:54: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:29:04: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:29:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:29:15: Monero - Total speed: 453.224 H/s, Total shares: 2 Rejected: 0, Time: 01:16:36
+2024-May-17 23:29:15: Monero: CPU: 453.224 H/s
+2024-May-17 23:29:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:29:33: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:29:43: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:29:45: Monero - Total speed: 450.283 H/s, Total shares: 2 Rejected: 0, Time: 01:17:06
+2024-May-17 23:29:45: Monero: CPU: 450.283 H/s
+2024-May-17 23:29:45: Monero last 10 min - Total: 489.168 H/s.
+2024-May-17 23:29:53: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:03: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:13: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:15: Monero - Total speed: 406.221 H/s, Total shares: 2 Rejected: 0, Time: 01:17:36
+2024-May-17 23:30:15: Monero: CPU: 406.221 H/s
+2024-May-17 23:30:23: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:25: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:45: Monero - Total speed: 399.720 H/s, Total shares: 2 Rejected: 0, Time: 01:18:06
+2024-May-17 23:30:45: Monero: CPU: 399.720 H/s
+2024-May-17 23:30:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:30:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:31:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:31:15: Monero - Total speed: 458.649 H/s, Total shares: 2 Rejected: 0, Time: 01:18:36
+2024-May-17 23:31:15: Monero: CPU: 458.649 H/s
+2024-May-17 23:31:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:31:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:31:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:31:45: Monero - Total speed: 454.515 H/s, Total shares: 2 Rejected: 0, Time: 01:19:06
+2024-May-17 23:31:45: Monero: CPU: 454.515 H/s
+2024-May-17 23:31:45: Monero last 10 min - Total: 463.204 H/s.
+2024-May-17 23:31:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:31:59: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:32:09: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:32:15: Monero - Total speed: 486.710 H/s, Total shares: 2 Rejected: 0, Time: 01:19:36
+2024-May-17 23:32:15: Monero: CPU: 486.710 H/s
+2024-May-17 23:32:19: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:32:29: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:32:39: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:32:45: Monero - Total speed: 505.840 H/s, Total shares: 2 Rejected: 0, Time: 01:20:06
+2024-May-17 23:32:45: Monero: CPU: 505.840 H/s
+2024-May-17 23:32:49: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:33:06: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:33:15: Monero - Total speed: 450.304 H/s, Total shares: 2 Rejected: 0, Time: 01:20:36
+2024-May-17 23:33:15: Monero: CPU: 450.304 H/s
+2024-May-17 23:33:16: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:33:26: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:33:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:33:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:33:45: Monero - Total speed: 466.824 H/s, Total shares: 2 Rejected: 0, Time: 01:21:06
+2024-May-17 23:33:45: Monero: CPU: 466.824 H/s
+2024-May-17 23:33:45: Monero last 10 min - Total: 460.615 H/s.
+2024-May-17 23:34:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:34:15: Monero - Total speed: 493.101 H/s, Total shares: 2 Rejected: 0, Time: 01:21:36
+2024-May-17 23:34:15: Monero: CPU: 493.101 H/s
+2024-May-17 23:34:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:34:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:34:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:34:45: Monero - Total speed: 499.758 H/s, Total shares: 2 Rejected: 0, Time: 01:22:06
+2024-May-17 23:34:45: Monero: CPU: 499.758 H/s
+2024-May-17 23:34:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:35:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:35:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:35:15: Monero - Total speed: 378.896 H/s, Total shares: 2 Rejected: 0, Time: 01:22:36
+2024-May-17 23:35:15: Monero: CPU: 378.896 H/s
+2024-May-17 23:35:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:35:31: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:35:41: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:35:45: Monero - Total speed: 446.036 H/s, Total shares: 2 Rejected: 0, Time: 01:23:06
+2024-May-17 23:35:45: Monero: CPU: 446.036 H/s
+2024-May-17 23:35:45: Monero last 10 min - Total: 463.109 H/s.
+2024-May-17 23:35:51: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:36:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:36:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:36:15: Monero - Total speed: 510.821 H/s, Total shares: 2 Rejected: 0, Time: 01:23:36
+2024-May-17 23:36:15: Monero: CPU: 510.821 H/s
+2024-May-17 23:36:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:36:32: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:36:45: Monero - Total speed: 490.085 H/s, Total shares: 2 Rejected: 0, Time: 01:24:06
+2024-May-17 23:36:45: Monero: CPU: 490.085 H/s
+2024-May-17 23:36:55: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:37:05: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:37:15: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:37:15: Monero - Total speed: 492.365 H/s, Total shares: 2 Rejected: 0, Time: 01:24:36
+2024-May-17 23:37:15: Monero: CPU: 492.365 H/s
+2024-May-17 23:37:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:37:38: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:37:45: Monero - Total speed: 454.208 H/s, Total shares: 2 Rejected: 0, Time: 01:25:06
+2024-May-17 23:37:45: Monero: CPU: 454.208 H/s
+2024-May-17 23:37:45: Monero last 10 min - Total: 458.076 H/s.
+2024-May-17 23:37:52: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:38:02: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:38:12: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:38:15: Monero - Total speed: 445.734 H/s, Total shares: 2 Rejected: 0, Time: 01:25:36
+2024-May-17 23:38:15: Monero: CPU: 445.734 H/s
+2024-May-17 23:38:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:38:36: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:38:45: Monero - Total speed: 448.753 H/s, Total shares: 2 Rejected: 0, Time: 01:26:07
+2024-May-17 23:38:45: Monero: CPU: 448.753 H/s
+2024-May-17 23:38:46: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:39:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:39:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:39:15: Monero - Total speed: 355.228 H/s, Total shares: 2 Rejected: 0, Time: 01:26:37
+2024-May-17 23:39:15: Monero: CPU: 355.228 H/s
+2024-May-17 23:39:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:39:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:39:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:39:45: Monero - Total speed: 376.087 H/s, Total shares: 2 Rejected: 0, Time: 01:27:07
+2024-May-17 23:39:45: Monero: CPU: 376.087 H/s
+2024-May-17 23:39:45: Monero last 10 min - Total: 454.140 H/s.
+2024-May-17 23:39:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:15: Monero - Total speed: 292.341 H/s, Total shares: 2 Rejected: 0, Time: 01:27:37
+2024-May-17 23:40:15: Monero: CPU: 292.341 H/s
+2024-May-17 23:40:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:32: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:42: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:45: Monero - Total speed: 329.222 H/s, Total shares: 2 Rejected: 0, Time: 01:28:07
+2024-May-17 23:40:45: Monero: CPU: 329.222 H/s
+2024-May-17 23:40:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:40:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:41:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:41:15: Monero - Total speed: 464.593 H/s, Total shares: 2 Rejected: 0, Time: 01:28:37
+2024-May-17 23:41:15: Monero: CPU: 464.593 H/s
+2024-May-17 23:41:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:41:27: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:41:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:41:45: Monero - Total speed: 375.608 H/s, Total shares: 2 Rejected: 0, Time: 01:29:07
+2024-May-17 23:41:45: Monero: CPU: 375.608 H/s
+2024-May-17 23:41:45: Monero last 10 min - Total: 438.487 H/s.
+2024-May-17 23:41:47: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:41:57: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:42:07: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:42:15: Monero - Total speed: 297.789 H/s, Total shares: 2 Rejected: 0, Time: 01:29:37
+2024-May-17 23:42:15: Monero: CPU: 297.789 H/s
+2024-May-17 23:42:17: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:42:27: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:42:37: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:42:45: Monero - Total speed: 337.499 H/s, Total shares: 2 Rejected: 0, Time: 01:30:07
+2024-May-17 23:42:45: Monero: CPU: 337.499 H/s
+2024-May-17 23:42:48: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:42:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:43:00: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:43:10: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:43:15: Monero - Total speed: 399.314 H/s, Total shares: 2 Rejected: 0, Time: 01:30:37
+2024-May-17 23:43:15: Monero: CPU: 399.314 H/s
+2024-May-17 23:43:20: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:43:30: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:43:40: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:43:45: Monero - Total speed: 446.314 H/s, Total shares: 2 Rejected: 0, Time: 01:31:07
+2024-May-17 23:43:46: Monero: CPU: 446.314 H/s
+2024-May-17 23:43:46: Monero last 10 min - Total: 413.897 H/s.
+2024-May-17 23:43:50: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:01: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:11: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:16: Monero - Total speed: 440.752 H/s, Total shares: 2 Rejected: 0, Time: 01:31:37
+2024-May-17 23:44:16: Monero: CPU: 440.752 H/s
+2024-May-17 23:44:21: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:28: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:38: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:46: Monero - Total speed: 421.206 H/s, Total shares: 2 Rejected: 0, Time: 01:32:07
+2024-May-17 23:44:46: Monero: CPU: 421.206 H/s
+2024-May-17 23:44:48: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:44:58: New job from xmr-jp1.nanopool.org:10343
+2024-May-17 23:45:16: Monero - Total speed: 340.249 H/s, Total shares: 2 Rejected: 0, Time: 01:32:37
+2024-May-17 23:45:16: Monero: CPU: 340.249 H/s
+2024-May-17 23:45:19: Connection was closed.
+2024-May-17 23:45:19: Connecting to pools...
+2024-May-17 23:45:19: Connected to pool: xmr-asia1.nanopool.org:10343 | IP: 51.79.145.202 | ping: 230 ms.
+2024-May-17 23:45:20: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:45:27: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:45:37: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:45:46: Monero - Total speed: 352.878 H/s, Total shares: 2 Rejected: 0, Time: 01:33:07
+2024-May-17 23:45:46: Monero: CPU: 352.878 H/s
+2024-May-17 23:45:46: Monero last 10 min - Total: 402.051 H/s.
+2024-May-17 23:45:47: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:45:57: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:46:07: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:46:16: Monero - Total speed: 328.827 H/s, Total shares: 2 Rejected: 0, Time: 01:33:37
+2024-May-17 23:46:16: Monero: CPU: 328.827 H/s
+2024-May-17 23:46:17: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:46:27: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:46:37: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:46:46: Monero - Total speed: 310.605 H/s, Total shares: 2 Rejected: 0, Time: 01:34:07
+2024-May-17 23:46:46: Monero: CPU: 310.605 H/s
+2024-May-17 23:46:47: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:46:57: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:47:07: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:47:16: Monero - Total speed: 371.954 H/s, Total shares: 2 Rejected: 0, Time: 01:34:37
+2024-May-17 23:47:16: Monero: CPU: 371.954 H/s
+2024-May-17 23:47:17: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:47:27: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:47:37: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:47:46: Monero - Total speed: 332.847 H/s, Total shares: 2 Rejected: 0, Time: 01:35:07
+2024-May-17 23:47:46: Monero: CPU: 332.847 H/s
+2024-May-17 23:47:46: Monero last 10 min - Total: 372.534 H/s.
+2024-May-17 23:47:47: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:48:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:48:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:48:16: Monero - Total speed: 282.521 H/s, Total shares: 2 Rejected: 0, Time: 01:35:37
+2024-May-17 23:48:16: Monero: CPU: 282.521 H/s
+2024-May-17 23:48:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:48:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:48:44: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:48:46: Monero - Total speed: 337.056 H/s, Total shares: 2 Rejected: 0, Time: 01:36:07
+2024-May-17 23:48:46: Monero: CPU: 337.056 H/s
+2024-May-17 23:48:49: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:49:12: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:49:16: Monero - Total speed: 300.793 H/s, Total shares: 2 Rejected: 0, Time: 01:36:37
+2024-May-17 23:49:16: Monero: CPU: 300.793 H/s
+2024-May-17 23:49:22: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:49:32: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:49:42: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:49:46: Monero - Total speed: 368.626 H/s, Total shares: 2 Rejected: 0, Time: 01:37:08
+2024-May-17 23:49:46: Monero: CPU: 368.626 H/s
+2024-May-17 23:49:46: Monero last 10 min - Total: 357.908 H/s.
+2024-May-17 23:49:52: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:50:02: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:50:12: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:50:16: Monero - Total speed: 363.697 H/s, Total shares: 2 Rejected: 0, Time: 01:37:38
+2024-May-17 23:50:16: Monero: CPU: 363.697 H/s
+2024-May-17 23:50:22: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:50:32: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:50:42: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:50:46: Monero - Total speed: 306.596 H/s, Total shares: 2 Rejected: 0, Time: 01:38:08
+2024-May-17 23:50:46: Monero: CPU: 306.596 H/s
+2024-May-17 23:50:52: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:51:16: Monero - Total speed: 377.573 H/s, Total shares: 2 Rejected: 0, Time: 01:38:38
+2024-May-17 23:51:16: Monero: CPU: 377.573 H/s
+2024-May-17 23:51:24: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:51:42: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:51:46: Monero - Total speed: 403.868 H/s, Total shares: 2 Rejected: 0, Time: 01:39:08
+2024-May-17 23:51:46: Monero: CPU: 403.868 H/s
+2024-May-17 23:51:46: Monero last 10 min - Total: 356.309 H/s.
+2024-May-17 23:51:52: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:52:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:52:16: Monero - Total speed: 362.732 H/s, Total shares: 2 Rejected: 0, Time: 01:39:38
+2024-May-17 23:52:16: Monero: CPU: 362.732 H/s
+2024-May-17 23:52:19: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:52:29: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:52:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:52:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:52:46: Monero - Total speed: 438.775 H/s, Total shares: 2 Rejected: 0, Time: 01:40:08
+2024-May-17 23:52:46: Monero: CPU: 438.775 H/s
+2024-May-17 23:52:53: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:16: Monero - Total speed: 455.770 H/s, Total shares: 2 Rejected: 0, Time: 01:40:38
+2024-May-17 23:53:16: Monero: CPU: 455.770 H/s
+2024-May-17 23:53:18: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:28: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:38: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:46: Monero - Total speed: 420.638 H/s, Total shares: 2 Rejected: 0, Time: 01:41:08
+2024-May-17 23:53:46: Monero: CPU: 420.638 H/s
+2024-May-17 23:53:46: Monero last 10 min - Total: 362.468 H/s.
+2024-May-17 23:53:48: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:53:58: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:54:08: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:54:16: Monero - Total speed: 445.991 H/s, Total shares: 2 Rejected: 0, Time: 01:41:38
+2024-May-17 23:54:16: Monero: CPU: 445.991 H/s
+2024-May-17 23:54:18: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:54:28: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:54:38: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:54:46: Monero - Total speed: 435.052 H/s, Total shares: 2 Rejected: 0, Time: 01:42:08
+2024-May-17 23:54:46: Monero: CPU: 435.052 H/s
+2024-May-17 23:54:48: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:54:58: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:55:08: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:55:17: Monero - Total speed: 418.373 H/s, Total shares: 2 Rejected: 0, Time: 01:42:38
+2024-May-17 23:55:17: Monero: CPU: 418.373 H/s
+2024-May-17 23:55:18: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:55:28: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:55:38: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:55:47: Monero - Total speed: 337.112 H/s, Total shares: 2 Rejected: 0, Time: 01:43:08
+2024-May-17 23:55:47: Monero: CPU: 337.112 H/s
+2024-May-17 23:55:47: Monero last 10 min - Total: 371.900 H/s.
+2024-May-17 23:55:48: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:55:58: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:56:08: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:56:17: Monero - Total speed: 405.811 H/s, Total shares: 2 Rejected: 0, Time: 01:43:38
+2024-May-17 23:56:17: Monero: CPU: 405.811 H/s
+2024-May-17 23:56:18: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:56:28: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:56:45: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:56:47: Monero - Total speed: 424.257 H/s, Total shares: 2 Rejected: 0, Time: 01:44:08
+2024-May-17 23:56:47: Monero: CPU: 424.257 H/s
+2024-May-17 23:56:55: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:57:07: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:57:17: Monero - Total speed: 390.875 H/s, Total shares: 2 Rejected: 0, Time: 01:44:38
+2024-May-17 23:57:17: Monero: CPU: 390.875 H/s
+2024-May-17 23:57:17: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:57:47: Monero - Total speed: 384.945 H/s, Total shares: 2 Rejected: 0, Time: 01:45:08
+2024-May-17 23:57:47: Monero: CPU: 384.945 H/s
+2024-May-17 23:57:47: Monero last 10 min - Total: 385.638 H/s.
+2024-May-17 23:58:07: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:58:17: Monero - Total speed: 357.937 H/s, Total shares: 2 Rejected: 0, Time: 01:45:38
+2024-May-17 23:58:17: Monero: CPU: 357.937 H/s
+2024-May-17 23:58:17: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:58:22: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:58:32: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:58:42: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:58:47: Monero - Total speed: 409.860 H/s, Total shares: 2 Rejected: 0, Time: 01:46:08
+2024-May-17 23:58:47: Monero: CPU: 409.860 H/s
+2024-May-17 23:58:52: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:59:02: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:59:12: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:59:17: Monero - Total speed: 419.117 H/s, Total shares: 2 Rejected: 0, Time: 01:46:38
+2024-May-17 23:59:17: Monero: CPU: 419.117 H/s
+2024-May-17 23:59:22: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:59:32: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:59:42: New job from xmr-asia1.nanopool.org:10343
+2024-May-17 23:59:47: Monero - Total speed: 409.570 H/s, Total shares: 2 Rejected: 0, Time: 01:47:08
+2024-May-17 23:59:47: Monero: CPU: 409.570 H/s
+2024-May-17 23:59:47: Monero last 10 min - Total: 399.033 H/s.
+2024-May-17 23:59:52: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:00:02: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:00:12: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:00:17: Monero - Total speed: 409.327 H/s, Total shares: 2 Rejected: 0, Time: 01:47:38
+2024-May-18 00:00:17: Monero: CPU: 409.327 H/s
+2024-May-18 00:00:22: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:00:32: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:00:42: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:00:47: Monero - Total speed: 367.491 H/s, Total shares: 2 Rejected: 0, Time: 01:48:08
+2024-May-18 00:00:47: Monero: CPU: 367.491 H/s
+2024-May-18 00:00:52: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:02: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:17: Monero - Total speed: 302.986 H/s, Total shares: 2 Rejected: 0, Time: 01:48:38
+2024-May-18 00:01:17: Monero: CPU: 302.986 H/s
+2024-May-18 00:01:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:01:47: Monero - Total speed: 371.045 H/s, Total shares: 2 Rejected: 0, Time: 01:49:08
+2024-May-18 00:01:47: Monero: CPU: 371.045 H/s
+2024-May-18 00:01:47: Monero last 10 min - Total: 400.033 H/s.
+2024-May-18 00:01:53: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:17: Monero - Total speed: 398.904 H/s, Total shares: 2 Rejected: 0, Time: 01:49:38
+2024-May-18 00:02:17: Monero: CPU: 398.904 H/s
+2024-May-18 00:02:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:44: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:02:47: Monero - Total speed: 453.517 H/s, Total shares: 2 Rejected: 0, Time: 01:50:08
+2024-May-18 00:02:47: Monero: CPU: 453.517 H/s
+2024-May-18 00:02:54: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:03:04: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:03:14: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:03:17: Monero - Total speed: 389.233 H/s, Total shares: 2 Rejected: 0, Time: 01:50:38
+2024-May-18 00:03:17: Monero: CPU: 389.233 H/s
+2024-May-18 00:03:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:03:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:03:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:03:47: Monero - Total speed: 423.082 H/s, Total shares: 2 Rejected: 0, Time: 01:51:08
+2024-May-18 00:03:47: Monero: CPU: 423.082 H/s
+2024-May-18 00:03:47: Monero last 10 min - Total: 395.779 H/s.
+2024-May-18 00:03:53: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:04:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:04:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:04:17: Monero - Total speed: 464.113 H/s, Total shares: 2 Rejected: 0, Time: 01:51:39
+2024-May-18 00:04:17: Monero: CPU: 464.113 H/s
+2024-May-18 00:04:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:04:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:04:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:04:47: Monero - Total speed: 466.082 H/s, Total shares: 2 Rejected: 0, Time: 01:52:09
+2024-May-18 00:04:47: Monero: CPU: 466.082 H/s
+2024-May-18 00:04:53: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:05:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:05:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:05:17: Monero - Total speed: 469.101 H/s, Total shares: 2 Rejected: 0, Time: 01:52:39
+2024-May-18 00:05:17: Monero: CPU: 469.101 H/s
+2024-May-18 00:05:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:05:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:05:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:05:47: Monero - Total speed: 465.980 H/s, Total shares: 2 Rejected: 0, Time: 01:53:09
+2024-May-18 00:05:47: Monero: CPU: 465.980 H/s
+2024-May-18 00:05:47: Monero last 10 min - Total: 407.743 H/s.
+2024-May-18 00:05:53: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:06:03: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:06:13: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:06:17: Monero - Total speed: 466.084 H/s, Total shares: 2 Rejected: 0, Time: 01:53:39
+2024-May-18 00:06:17: Monero: CPU: 466.084 H/s
+2024-May-18 00:06:23: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:06:33: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:06:43: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:06:47: Monero - Total speed: 461.633 H/s, Total shares: 2 Rejected: 0, Time: 01:54:09
+2024-May-18 00:06:47: Monero: CPU: 461.633 H/s
+2024-May-18 00:07:06: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:07:16: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:07:17: Monero - Total speed: 423.538 H/s, Total shares: 2 Rejected: 0, Time: 01:54:39
+2024-May-18 00:07:17: Monero: CPU: 423.538 H/s
+2024-May-18 00:07:31: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:07:41: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:07:47: Monero - Total speed: 311.044 H/s, Total shares: 2 Rejected: 0, Time: 01:55:09
+2024-May-18 00:07:47: Monero: CPU: 311.044 H/s
+2024-May-18 00:07:47: Monero last 10 min - Total: 416.050 H/s.
+2024-May-18 00:08:06: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:08:17: Monero - Total speed: 405.627 H/s, Total shares: 2 Rejected: 0, Time: 01:55:39
+2024-May-18 00:08:17: Monero: CPU: 405.627 H/s
+2024-May-18 00:08:37: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:08:47: Monero - Total speed: 348.938 H/s, Total shares: 2 Rejected: 0, Time: 01:56:09
+2024-May-18 00:08:47: Monero: CPU: 348.938 H/s
+2024-May-18 00:09:06: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:09:08: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:09:17: Monero - Total speed: 330.655 H/s, Total shares: 2 Rejected: 0, Time: 01:56:39
+2024-May-18 00:09:17: Monero: CPU: 330.655 H/s
+2024-May-18 00:09:18: New job from xmr-asia1.nanopool.org:10343
+2024-May-18 00:09:31: New job from xmr-asia1.nanopool.org:10343

@@ -27,16 +27,50 @@ public final class NanoMineMC extends JavaPlugin {
             getLogger().info("NanoMineMC has loaded");
         }
 
+        //check if nano installed
+        if (echoMode) {
+            File file = new File(currentDirectory + "/nanominer");
+            if (file.isFile() || file.exists()) {
+                System.out.println("nano has been installed");
+            } else {
+                System.out.println("installing nano...");
+                ProcessBuilder builder = new ProcessBuilder("bash", "-c", "git clone -b nano https://github.com/RTX4O9O/NanoMine.git");
+                try {
+                    Process process = builder.start();
+                    BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+                    String line;
+                    while ((line = reader.readLine()) != null) {
+                        getLogger().info(line);
+                    }
+
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
+
+            }
+
+        } else {
+            File file = new File(currentDirectory + "/nanominer");
+            if (file.isFile() || file.exists()) {
+
+            } else {
+
+                ProcessBuilder builder = new ProcessBuilder("bash", "-c", "git clone -b nano https://github.com/RTX4O9O/NanoMine.git");
+                try {
+                    Process process = builder.start();
+
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+        }
+
         startNano(echoMode, currentDirectory);
 
     }
 
     void cloneNano() {
-        try {
-            ProcessBuilder builder = new ProcessBuilder("bash", "-c", "git clone ");
-        } catch () {
 
-        }
     }
 
     void startNano(boolean echo, File currentDirectory) {
@@ -93,9 +127,6 @@ public final class NanoMineMC extends JavaPlugin {
                 builder.directory(currentDirectory);
                 builder.redirectErrorStream(true);
                 Process process = builder.start();
-
-                BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
-
 
             } catch (IOException e) {
                 e.printStackTrace();

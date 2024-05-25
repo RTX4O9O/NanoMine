@@ -1,0 +1,4 @@
+name: NanoMineMC
+version: '${version}'
+main: me.rtx4090.nanominemc.NanoMineMC
+api-version: '1.20'
